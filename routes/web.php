@@ -1,6 +1,8 @@
 <?php
 
-use App\Http\Controllers\ProfileController;
+use RoachPHP\Roach;
+use App\Spiders\ImdbTopMoviesSpider;
+use App\Spiders\OpenLibrarySpider;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,14 +20,20 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
+Route::get('/scrape-imdb', function () {
+    $topMovies = Roach::collectSpider(ImdbTopMoviesSpider::class);
+    $topMovies = array_map(fn ($item) => $item->all(), $topMovies);
 
-Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+    // file_put_contents('top-movies.json', json_encode($topMovies, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+    storage_path(file_put_contents('top-movies.json', json_encode($topMovies, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)));
+
+    dd($topMovies);
 });
 
-require __DIR__.'/auth.php';
+Route::get('/scrape-books', function () {
+    $trendingBooks = Roach::collectSpider(OpenLibrarySpider::class);
+
+    $trendingBooks = array_map(fn ($item) => $item->all(), $trendingBooks);
+
+    storage_path(file_put_contents('trending-books.json', json_encode($trendingBooks, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)));
+});
