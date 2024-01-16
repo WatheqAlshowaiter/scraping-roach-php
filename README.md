@@ -1,8 +1,5 @@
-## todo
+Scraping using https://roach-php.dev
 
--   [] https://www.techaviv.com/members
-    -   [] fix roachphp time_sleep_until
-        [] scrape all members with load button
-    -   [] download all members images
-    -   [] scrape all single-page members for linkedIn, twitter, and description
-    -   [] link images with json data properly
+recourses:
+- https://roach-php.dev/docs/introduction
+- https://codewithkyrian.com/p/roachphp-mastering-web-scraping-with-php
