@@ -1,0 +1,148 @@
+[
+    {
+        "name": "Adam Fisher",
+        "url": "https://www.techaviv.com/people/adam-fisher",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a460695e178c57bf28c2_OichoBsYv_oRKhscVt4oigu-EvsyuO6GFDY_A7iAcIY.jpeg",
+        "title": "Partner",
+        "location": "Israel",
+        "company": {
+            "name": "Bessemer",
+            "link": "https://www.bvp.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64ac37371c9cb56f2b0d9369_msT0Q0O1Vvv0ZLabFRIGUQ_Nc8YKJTUCdBCJEbPcTsY.png"
+        },
+        "description": "Adam Fisher is widely regarded as one of the top investors in Israel with experience investing across the technology stack, from cutting edge hardware to consumer Internet. Always focused on product-oriented companies, among his many areas of interest is SMB focused SaaS, applications, and marketplaces (e.g. Yotpo, Melio, Hibob, Choco).",
+        "socials": [
+            "https://www.linkedin.com/in/adamrfisher/",
+            "https://twitter.com/AdamRFisher"
+        ]
+    },
+    {
+        "name": "Adam Singolda",
+        "url": "https://www.techaviv.com/people/adam-singolda",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a463c5aadaa01883a28b_QvvIWBdFHmhMuIO8N5JpZjnnXLynP1TftaAE1PGQXVI.png",
+        "title": "Founder & CEO",
+        "location": "New York",
+        "company": {
+            "name": "Taboola",
+            "link": "https://www.taboola.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64aac8b487b3937515c6c2ac_xggbVttcW1X4ScENOoWC1RUZBpgIQ0YMuiOhZ0cboxs.png"
+        },
+        "description": "Adam Singolda is the founder and CEO of Taboola, a content discovery, and native advertising platform. With his experience in machine learning and data-driven technologies, Singolda has developed Taboola to be a leader in the field of content recommendation. His company reaches over a billion users monthly. Singolda has been an active contributor to industry thought leadership, speaking at technology conferences and writing for respected business publications. His entrepreneurial mindset and leadership skills enable him to drive continuous growth and innovation in the digital advertising industry.",
+        "socials": [
+            "https://www.linkedin.com/in/adamsingolda"
+        ]
+    },
+    {
+        "name": "Adam de la Zerda",
+        "url": "https://www.techaviv.com/people/adam-de-la-zerda",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a45eab24842da41144f0_cq45bubEDqqWX5JCwSfbBnlQ4cm7P-td-dpnKE3RHzU.jpeg",
+        "title": "Founder & CEO",
+        "location": "Silicon Valley",
+        "company": {
+            "name": "Visby Medical",
+            "link": "https://www.visbymedical.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64ae692f7b45b0ffd44552df_S5XRI9g7Ti_P_0wSmjRd4OHD6mqFZUPwnJt5ScFWBRY.png"
+        },
+        "description": "",
+        "socials": [
+            "https://www.linkedin.com/in/adamdelazerda/"
+        ]
+    },
+    {
+        "name": "Adi Tatarko",
+        "url": "https://www.techaviv.com/people/adi-tatarko",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a474bc3b93aaf9035a59_Vg-9DThyB5ME0YfpJScOCpnSBkrCGEotOVIY52Oz_rs.jpeg",
+        "title": "Founder & CEO",
+        "location": "Silicon Valley",
+        "company": {
+            "name": "Houzz",
+            "link": "https://www.houzz.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64aabe5fefe87e38b0ff3cd9_kw9_1MdqOCeN7pzIeAPE0GsSEN-HioOvmhUjpgx5_bs.png"
+        },
+        "description": "Adi Tatarko is the co-founder and CEO of Houzz, an online platform for home remodeling and design. Under her leadership, the company has become an influential marketplace in the design industry, connecting millions of homeowners with home professionals globally. Prior to founding Houzz, Tatarko worked in international finance. She holds a BA in Economics from Tel Aviv University. Adi\u2019s entrepreneurial acumen and deep understanding of the technology-driven consumer market make her a valuable addition to any venture capital portfolio.",
+        "socials": [
+            "https://www.linkedin.com/in/adi-tatarko-38296823/"
+        ]
+    },
+    {
+        "name": "Alon Matas",
+        "url": "https://www.techaviv.com/people/alon-matas",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a495c5aadaa01883db03__xLzdFXpvEC1XS19XFFCdRh8idgKCRfpbzkKcDpcBDA.jpeg",
+        "title": "Founder & CEO",
+        "location": "Silicon Valley",
+        "company": {
+            "name": "BetterHelp",
+            "link": "https://www.betterhelp.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64aac60f5b2a0b3041c7e67b_r_E1PKzi-78vuYLLb4mQs3Grsw_PKhPth24KOHOq__A.png"
+        },
+        "description": "Alon Matas is the founder and CEO of BetterHelp, the leading online therapy platform. Alon has taken several online ventures through their entire life cycles: conceptualizing, planning, fundraising, team building, product design, development, launch, iteration, commercialization, optimization, growth, and eventually M&A. His passion is building, deploying, and scaling online services that solve real problems for real people. He is most excited by useful analytics, simple solutions, rapid execution, and working with people that care.",
+        "socials": [
+            "https://www.linkedin.com/in/alonmatas/",
+            "https://twitter.com/alonmatas"
+        ]
+    },
+    {
+        "name": "Allon Bloch",
+        "url": "https://www.techaviv.com/people/allon-bloch",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a47fb2baa4c7d37da5a5_VxhDWs_COoB337TS6hcRIg5oxYQ7em2Wd5rl3UEz4KQ.jpeg",
+        "title": "Founder & CEO",
+        "location": "New York",
+        "company": {
+            "name": "K Health",
+            "link": "https://www.khealth.ai",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478bbf540d62c04d1a19a98_ytSP-jYDlknDuMUDlAck41SiCo6AgsjrrPjI5M1mGeM.png"
+        },
+        "description": "Allon Bloch is an accomplished leader in the digital and tech industry, notable for his role as co-founder and CEO of K Health. He has previously served as CEO of Wix.com and Vroom, demonstrating a consistent track record in digital transformation and innovation. His entrepreneurial skill set, coupled with his deep understanding of the startup ecosystem, facilitates the successful execution of business strategies. A champion of tech-driven solutions, Bloch consistently prioritizes customer-centric approaches. He holds an MBA from Columbia Business School and a BSc in Physics and Computer Science from Bar-Ilan University.",
+        "socials": [
+            "https://www.linkedin.com/in/allon-bloch-70b1223/"
+        ]
+    },
+    {
+        "name": "Ami Daniel",
+        "url": "https://www.techaviv.com/people/ami-daniel",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a49c2c2e8e83de5a5482_5QcETUDcaQTPJX0Qls0MSc30uX4TftJjd_F360tTceY.jpeg",
+        "title": "Founder & CEO",
+        "location": "Israel",
+        "company": {
+            "name": "Windward",
+            "link": "https://www.windward.ai",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64ae699c39e58152173cf3b2_yXJ5EswW9bNOB7FeqlCPjcL8JqzmBIbzvgcTIKxYadA.png"
+        },
+        "description": "",
+        "socials": [
+            "https://www.linkedin.com/in/amidaniel/"
+        ]
+    },
+    {
+        "name": "Ami Gal",
+        "url": "https://www.techaviv.com/people/ami-gal",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a4a069c2a02e78685c27_bfBC9_F-JVkW76O9lkSiuMlZQ4CeByxBUFx8lWuUM7w.jpeg",
+        "title": "Founder & CEO",
+        "location": "Israel",
+        "company": {
+            "name": "SQream",
+            "link": "https://www.sqream.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/64eb65e499eee57d840862af_UmZ5wkgzq7B6yEdwRKeHFXpn2ZhSI3cGJNta3E2AlfU.png"
+        },
+        "description": "",
+        "socials": [
+            "https://www.linkedin.com/in/galami"
+        ]
+    },
+    {
+        "name": "Amiad Soto",
+        "url": "https://www.techaviv.com/people/amiad-soto",
+        "avatar": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478a4a369c2a02e78685ffc_VDR9KL0oMp3FV3xwaiLmyq51Vy3s0cE2BDWKlOPkUXY.jpeg",
+        "title": "Founder & CEO",
+        "location": "Israel",
+        "company": {
+            "name": "Guesty",
+            "link": "https://www.guesty.com",
+            "logo": "https://assets-global.website-files.com/637f4f9bd8c0f734f7361a76/6478bbb58041087191aaa022_08NrWJeiUvbNwZeTsr11_08D4TnwSSPvE068GWbtE6w.png"
+        },
+        "description": "",
+        "socials": [
+            "https://www.linkedin.com/in/amiadsoto"
+        ]
+    }
+]
