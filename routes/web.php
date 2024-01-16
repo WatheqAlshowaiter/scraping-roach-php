@@ -1,9 +1,11 @@
 <?php
 
-use RoachPHP\Roach;
+use App\Http\Controllers\DebugController;
+use App\Http\Controllers\TechavivController;
 use App\Spiders\ImdbTopMoviesSpider;
 use App\Spiders\OpenLibrarySpider;
 use Illuminate\Support\Facades\Route;
+use RoachPHP\Roach;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,3 +39,9 @@ Route::get('/scrape-books', function () {
 
     storage_path(file_put_contents('trending-books.json', json_encode($trendingBooks, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)));
 });
+
+Route::prefix('techaviv')->group(function () {
+    Route::get('members', [TechavivController::class, 'members'])->name('techaviv.members');
+});
+
+Route::get('debug', DebugController::class);
