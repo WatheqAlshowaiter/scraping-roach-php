@@ -66,6 +66,7 @@ class TechavivMembersSpider extends BasicSpider
             ]);
 
         // todo just for debugging. remove it later
+        // count 60 *16  + 45
         // $items = array_slice($items, 0, 2);
         // dd($items);
 
