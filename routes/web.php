@@ -42,6 +42,16 @@ Route::get('/scrape-books', function () {
 
 Route::prefix('techaviv')->group(function () {
     Route::get('members', [TechavivController::class, 'members'])->name('techaviv.members');
+    Route::get('companies', [TechavivController::class, 'companies'])->name('techaviv.companies');
+    Route::get('fund', [TechavivController::class, 'fund'])->name('techaviv.fund');
+    Route::get('jobs', [TechavivController::class, 'jobs'])->name('techaviv.jobs');
+    Route::get('portfolio', [TechavivController::class, 'portfolio'])->name('techaviv.portfolio');
+    Route::get('team', [TechavivController::class, 'team'])->name('techaviv.team');
+    Route::get('unicorns', [TechavivController::class, 'unicorns'])->name('techaviv.unicorns');
+});
+
+Route::prefix('startupnationcentral')->group(function () {
+
 });
 
 Route::get('debug', DebugController::class);
